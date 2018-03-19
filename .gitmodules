@@ -17,3 +17,8 @@
 	path = Eficent/ddmrp
 	url = git@github.com:Eficent/ddmrp.git
 	branch = 10.0
+
+[submodule "morphace/oca_extract"]
+	path = morphace/oca_extract
+	url = git@github.com:morphace/oca_extract.git
+	branch = master
